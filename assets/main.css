@@ -1,4 +1,5 @@
 .btn{
+    
     color: #fff;
     font-style: oblique;
     margin-top: 200px;
@@ -12,7 +13,7 @@
 .button{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; 
 }
 .sideBar{
     display: none;
